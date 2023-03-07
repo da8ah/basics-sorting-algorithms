@@ -12,5 +12,7 @@ function selection(arr: number[]) {
 	return arr;
 }
 
-console.log(selection([12, 31, 25, 8, 32, 17]));
-console.log(selection([80, 10, 29, 11, 8, 30, 15]));
+const start = performance.now();
+const arr = selection([12, 31, 25, 8, 32, 17]);
+const end = performance.now();
+console.log(`[${arr}] time: ${end - start}`);
