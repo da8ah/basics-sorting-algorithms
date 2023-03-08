@@ -12,6 +12,8 @@ fun bubble(arr: IntArray): IntArray {
 }
 
 fun main() {
+    val start = System.currentTimeMillis()
     val arr = bubble(intArrayOf(12, 31, 25, 8, 32, 17))
-    println(arr.contentToString())
+    val end = System.currentTimeMillis()
+    println(arr.contentToString() + " time: " + ((end - start) / 1000.0))
 }
