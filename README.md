@@ -5,6 +5,7 @@
 - [x] Bubble Sort
 - [x] Insertion Sort
 - [x] Selection Sort
+- [x] Merge Sort
 
 ## Typescript
 
