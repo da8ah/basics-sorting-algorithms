@@ -1,0 +1,15 @@
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/bin/Debug/net6.0/MergeCS
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/bin/Debug/net6.0/MergeCS.deps.json
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/bin/Debug/net6.0/MergeCS.runtimeconfig.json
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/bin/Debug/net6.0/MergeCS.dll
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/bin/Debug/net6.0/MergeCS.pdb
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.csproj.AssemblyReference.cache
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.AssemblyInfoInputs.cache
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.AssemblyInfo.cs
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.csproj.CoreCompileInputs.cache
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.dll
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/refint/MergeCS.dll
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.pdb
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/MergeCS.genruntimeconfig.cache
+/home/tiber/programming/javascript/practice/basics/basics-sorting-algorithms/merge-sort/MergeCS/obj/Debug/net6.0/ref/MergeCS.dll

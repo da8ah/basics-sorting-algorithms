@@ -32,3 +32,10 @@ $ java -jar File.jar
 ```bash
 $ python3 File.py
 ```
+
+## C#
+
+```bash
+$ cd MyProject/
+$ dotnet run
+```
