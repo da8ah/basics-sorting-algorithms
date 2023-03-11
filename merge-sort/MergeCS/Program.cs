@@ -8,13 +8,13 @@ namespace MergeCS
         {
             var watch = System.Diagnostics.Stopwatch.StartNew();
             int[] arr = { 5, 21, 44, 33, 18, 10 };
-            mergeSort(arr);
+            merge(arr);
             watch.Stop();
             var elapsedMs = watch.Elapsed.TotalSeconds;
             Console.WriteLine("[" + string.Join(",", arr) + "] time: " + elapsedMs);
         }
 
-        static void mergeSort(int[] arr)
+        static void merge(int[] arr)
         {
             // Until there's only one or none elements within the arr
             if (arr.Length <= 1) return;
@@ -23,14 +23,14 @@ namespace MergeCS
             int mid = (int)Math.Round((double)arr.Length / 2);
             int[] left = arr[..mid];
             int[] right = arr[mid..arr.Length];
-            mergeSort(left);
-            mergeSort(right);
+            merge(left);
+            merge(right);
 
             // Merge left & right into the arr for each divition's pair
-            merge(left, right, arr);
+            mergeSort(left, right, arr);
         }
 
-        static void merge(int[] left, int[] right, int[] arr)
+        static void mergeSort(int[] left, int[] right, int[] arr)
         {
             // Iterate over left & right
             int indexArr = 0, indexL = 0, indexR = 0;
